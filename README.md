@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yullikim
+- 👀 I’m interested in Server programming
+- 🌱 I’m currently learning Spring Framework
+- 📫 How to reach me youjinyulli@gmail.com
